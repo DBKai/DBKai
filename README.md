@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+My name is Dmitriy and i am frontend developer
+
+
+![Codewars](https://github.r2v.ch/codewars?user=DBKai)
+
 <!--
 **DBKai/DBKai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
